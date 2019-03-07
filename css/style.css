@@ -1,0 +1,20 @@
+body {
+    background-color: #1c819e;
+    color: #dfdfdf;
+  }
+  
+  hr {
+    height: 0px;
+    border: none;
+    background-color: #1c819e;
+    border-top: 5px dotted #dfdfdf;
+    width: 6%;
+  }
+
+  .stars {
+    color: #ffbe00;
+  }
+
+  h1, h3 {
+    color: #ffbe00;
+  }
